@@ -14,7 +14,7 @@ from langchain.callbacks import get_openai_callback
 load_dotenv()
 
 # Set OpenAI API key
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAAI_API_KEY")
+os.environ["OPENAI_API_KEY"] = "skPrdSelnK8wKoJcQetAWcT3BlbkFJzhf5wdnJfUahu4xxJOeM"
 
 # Function to add vertical space
 def add_vertical_space(height):
